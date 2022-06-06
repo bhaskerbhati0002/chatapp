@@ -1,0 +1,57 @@
+#messagebox {
+  background-image: url('../images/bg.jfif');
+  border:2px solid black;
+  overflow-y: auto;
+  margin: auto;
+  width: 900px;
+  height: 450px;
+}
+
+#userbox {
+  background-image: url('../images/bg2.webp');
+  border: 2px solid black;
+}
+
+#inputtext {
+  position: absolute;
+  top: 640px;
+  left: 474px;
+  width: 800px;
+  height: 39px;
+}
+
+#send {
+  position: absolute;
+  top: 640px;
+  left: 1286px;
+  width: 90px;
+}
+
+.message{
+  border: 2px solid black;
+  width:40%;
+  padding:10px;
+  margin: 5px 5px;
+  border-radius: 10px;
+}
+
+.right {
+  background-color: burlywood;
+  float: right;
+  clear:both;
+}
+
+.left {
+  background-color: rgb(46, 226, 166);
+  float: left;
+  clear:both;
+}
+
+#selfid {
+  font-family: sans-serif;
+  font-size: x-large;
+  width:400px;
+  height:50px;
+  border-radius: 20px;
+  background-color: aqua;
+}
